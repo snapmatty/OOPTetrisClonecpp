@@ -1,0 +1,4 @@
+THE PLAYER STATISTICS: 
+Playtime:  5
+Highscore:  0
+Speed achieved (interval):  900
